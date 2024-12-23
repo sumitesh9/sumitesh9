@@ -2,7 +2,7 @@
 
 ## About Me 💡
 
-Hi, I'm **Sumitesh Naithani**!. 
+Hi, I'm **Sumitesh Naithani** !. 
 
 - 🎓 **Profession**: Software Development Engineer (Sr. AL2 at Publicis Sapient)
 - 🌟 **Experiences**:
