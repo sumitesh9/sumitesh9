@@ -4,7 +4,7 @@
 
 Hi, I'm **Sumitesh Naithani** !. 
 
-- 🎓 **Profession**: Software Development Engineer (Sr. AL2 at Publicis Sapient)
+- 🎓 **Profession**: Senior Product Engineer at Publicis Sapient
 - 🌟 **Experiences**:
   - **Web3**:
     1. Created an NFT marketplace with multi-token (ERC20), multi-chain (Ethereum, Polygon Matic), GSN (Gas Station Network), and NFT Airdrops features.
