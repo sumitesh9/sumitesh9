@@ -1,3 +1,2 @@
 ## 👋 Hi, I'm Sumitesh
-
-🌐 Find me @: https://www.sumitesh.xyz
+🌐 Find me @: <a href="https://www.sumitesh.xyz" target="_blank" rel="noopener noreferrer">https://www.sumitesh.xyz</a>
